@@ -5,6 +5,7 @@
 * [Technologies](#technologies)
 * [Instruction](#Instructions)
 * [Status](#status)
+* [Sources](#Sources)
 * [Contact](#contact)
 
 ## General info
@@ -23,6 +24,10 @@
 
 ## Status
 Project is: _finished_
+
+## Sources
+This app is created with "CleverProgrammer" tutorial by [https://www.cleverprogrammer.com/]
+Original-website link:  https://losangeles.craigslist.org/search/
 
 ## Contact
 Created by [DiddyChriss] (http://chriss.pythonanywhere.com/) - feel free to contact me!
